@@ -17,13 +17,13 @@
 
 #user se number lo aur uska reverse print karo
 
-m=int(input("Enter a number: "))#m=234
-p=m
+# m=int(input("Enter a number: "))#m=234
+# p=m
  
-set=0
-while m>0:
-        r=m%10 #r=4
-        set=set*10+r #0*10+4,set=4
+# set=0
+# while m>0:
+#         r=m%10 #r=4
+#         set=set*10+r #0*10+4,set=4
         
-        m=m//10 #234/10 =23
-print(set)
+#         m=m//10 #234/10 =23
+# print(set)
