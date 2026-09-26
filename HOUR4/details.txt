@@ -1,0 +1,41 @@
+///
+First we are seeing List on this folder --> symbol-->[]
+List is ordered in nature.
+We can use functions to manupulate the list like:
+a=["a","e",45]
+append()
+sort()
+remove()
+pop()
+len()
+insert()
+
+
+////
+Second Data Structuring in python is tuple 
+tuple symbol is ()
+this is unmutable we cannot change it 
+tuple is used jaha pe chize fixed rakni ho
+
+
+////
+3rd Data Structuring in python is SET
+set is denoted by {}
+duplicate values automatically remove ho jati hai
+unordered list hoti hai
+mutable hoti hai
+ye unique values contain karti hai
+ye jo set hai n , ye wahi wala set h jo mathematics me use hota hai
+jaise :
+AND OPERATION 
+OR OPERATION
+INTERSECTION OPERATION
+
+YOU KNOW EVERY DATA Structuring IS unique SAB CHIZO K LIYE ALAG-ALAG functions AVAILABLE HAI.
+
+
+/// final data Structuring in python is dictionary hoti hai
+
+dictionary me key and value k pair hota hai
+key value work like index value
+
